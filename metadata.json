@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AutoPMBM",
+  "description": "An application to analyze sustainability report spreadsheets using AI. Upload a CSV file with sighting data, and the app will extract and display the information in a structured format, powered by Gemini.",
+  "requestFramePermissions": []
+}
